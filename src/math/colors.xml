@@ -1,0 +1,913 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<table>
+<tr>
+    <td style="background:#F0F8FF"></td>
+    <td>AliceBlue</td>
+    <td style="background:beige">#F0F8FF</td>
+    <td style="background:beige">240,248,255</td>
+</tr>
+<tr>
+    <td style="background:#FAEBD7"></td>
+
+    <td>AntiqueWhite</td>
+    <td style="background:beige">#FAEBD7</td>
+    <td style="background:beige">250,235,215</td>
+</tr>
+<tr>
+    <td style="background:#00FFFF"></td>
+    <td>Aqua</td>
+    <td style="background:beige">#00FFFF</td>
+    <td style="background:beige">0,255,255</td>
+</tr>
+<tr>
+
+    <td style="background:#7FFFD4"></td>
+    <td>Aquamarine</td>
+    <td style="background:beige">#7FFFD4</td>
+    <td style="background:beige">127,255,212</td>
+</tr>
+<tr>
+    <td style="background:#F0FFFF"></td>
+    <td>Azure</td>
+    <td style="background:beige">#F0FFFF</td>
+    <td style="background:beige">240,255,255</td>
+</tr>
+
+<tr>
+    <td style="background:#F5F5DC"></td>
+    <td>Beige</td>
+    <td style="background:beige">#F5F5DC</td>
+    <td style="background:beige">245,245,220</td>
+</tr>
+<tr>
+    <td style="background:#FFE4C4"></td>
+    <td>Bisque</td>
+    <td style="background:beige">#FFE4C4</td>
+    <td style="background:beige">255,228,196</td>
+
+</tr>
+<tr>
+    <td style="background:#000000"></td>
+    <td>Black</td>
+    <td style="background:beige">#000000</td>
+    <td style="background:beige">0,0,0</td>
+</tr>
+<tr>
+    <td style="background:#FFEBCD"></td>
+    <td>BlanchedAlmond</td>
+    <td style="background:beige">#FFEBCD</td>
+    <td style="background:beige">255,235,205</td>
+
+</tr>
+<tr>
+    <td style="background:#0000FF"></td>
+    <td>Blue</td>
+    <td style="background:beige">#0000FF</td>
+    <td style="background:beige">0,0,255</td>
+</tr>
+<tr>
+    <td style="background:#8A2BE2"></td>
+    <td>BlueViolet</td>
+    <td style="background:beige">#8A2BE2</td>
+    <td style="background:beige">138,43,226</td>
+
+</tr>
+<tr>
+    <td style="background:#A52A2A"></td>
+    <td>Brown</td>
+    <td style="background:beige">#A52A2A</td>
+    <td style="background:beige">165,42,42</td>
+</tr>
+<tr>
+    <td style="background:#DEB887"></td>
+    <td>BurlyWood</td>
+    <td style="background:beige">#DEB887</td>
+    <td style="background:beige">222,184,135</td>
+
+</tr>
+<tr>
+    <td style="background:#5F9EA0"></td>
+    <td>CadetBlue</td>
+    <td style="background:beige">#5F9EA0</td>
+    <td style="background:beige">95,158,160</td>
+</tr>
+<tr>
+    <td style="background:#7FFF00"></td>
+    <td>Chartreuse</td>
+    <td style="background:beige">#7FFF00</td>
+    <td style="background:beige">127,255,0</td>
+
+</tr>
+<tr>
+    <td style="background:#D2691E"></td>
+    <td>Chocolate</td>
+    <td style="background:beige">#D2691E</td>
+    <td style="background:beige">210,105,30</td>
+</tr>
+<tr>
+    <td style="background:#FF7F50"></td>
+    <td>Coral</td>
+    <td style="background:beige">#FF7F50</td>
+    <td style="background:beige">255,127,80</td>
+
+</tr>
+<tr>
+    <td style="background:#6495ED"></td>
+    <td>CornflowerBlue</td>
+    <td style="background:beige">#6495ED</td>
+    <td style="background:beige">100,149,237</td>
+</tr>
+<tr>
+    <td style="background:#FFF8DC"></td>
+    <td>Cornsilk</td>
+    <td style="background:beige">#FFF8DC</td>
+    <td style="background:beige">255,248,220</td>
+
+</tr>
+<tr>
+    <td style="background:#DC143C"></td>
+    <td>Crimson</td>
+    <td style="background:beige">#DC143C</td>
+    <td style="background:beige">220,20,60</td>
+</tr>
+<tr>
+    <td style="background:#00FFFF"></td>
+    <td>Cyan</td>
+    <td style="background:beige">#00FFFF</td>
+    <td style="background:beige">0,255,255</td>
+
+</tr>
+<tr>
+    <td style="background:#00008B"></td>
+    <td>DarkBlue</td>
+    <td style="background:beige">#00008B</td>
+    <td style="background:beige">0,0,139</td>
+</tr>
+<tr>
+    <td style="background:#008B8B"></td>
+    <td>DarkCyan</td>
+    <td style="background:beige">#008B8B</td>
+    <td style="background:beige">0,139,139</td>
+
+</tr>
+<tr>
+    <td style="background:#B8860B"></td>
+    <td>DarkGoldenrod</td>
+    <td style="background:beige">#B8860B</td>
+    <td style="background:beige">184,134,11</td>
+</tr>
+<tr>
+    <td style="background:#A9A9A9"></td>
+    <td>DarkGray</td>
+    <td style="background:beige">#A9A9A9</td>
+    <td style="background:beige">169,169,169</td>
+
+</tr>
+<tr>
+    <td style="background:#006400"></td>
+    <td>DarkGreen</td>
+    <td style="background:beige">#006400</td>
+    <td style="background:beige">0,100,0</td>
+</tr>
+<tr>
+    <td style="background:#BDB76B"></td>
+    <td>DarkKhaki</td>
+    <td style="background:beige">#BDB76B</td>
+    <td style="background:beige">189,183,107</td>
+
+</tr>
+<tr>
+    <td style="background:#8B008B"></td>
+    <td>DarkMagenta</td>
+    <td style="background:beige">#8B008B</td>
+    <td style="background:beige">139,0,139</td>
+</tr>
+<tr>
+    <td style="background:#556B2F"></td>
+    <td>DarkOliveGreen</td>
+    <td style="background:beige">#556B2F</td>
+    <td style="background:beige">85,107,47</td>
+
+</tr>
+<tr>
+    <td style="background:#FF8C00"></td>
+    <td>DarkOrange</td>
+    <td style="background:beige">#FF8C00</td>
+    <td style="background:beige">255,140,0</td>
+</tr>
+<tr>
+    <td style="background:#9932CC"></td>
+    <td>DarkOrchid</td>
+    <td style="background:beige">#9932CC</td>
+    <td style="background:beige">153,50,204</td>
+
+</tr>
+<tr>
+    <td style="background:#8B0000"></td>
+    <td>DarkRed</td>
+    <td style="background:beige">#8B0000</td>
+    <td style="background:beige">139,0,0</td>
+</tr>
+<tr>
+    <td style="background:#E9967A"></td>
+    <td>DarkSalmon</td>
+    <td style="background:beige">#E9967A</td>
+    <td style="background:beige">233,150,122</td>
+
+</tr>
+<tr>
+    <td style="background:#8FBC8F"></td>
+    <td>DarkSeaGreen</td>
+    <td style="background:beige">#8FBC8F</td>
+    <td style="background:beige">143,188,143</td>
+</tr>
+<tr>
+    <td style="background:#483D8B"></td>
+    <td>DarkSlateBlue</td>
+    <td style="background:beige">#483D8B</td>
+    <td style="background:beige">72,61,139</td>
+
+</tr>
+<tr>
+    <td style="background:#2F4F4F"></td>
+    <td>DarkSlateGray</td>
+    <td style="background:beige">#2F4F4F</td>
+    <td style="background:beige">47,79,79</td>
+</tr>
+<tr>
+    <td style="background:#00CED1"></td>
+    <td>DarkTurquoise</td>
+    <td style="background:beige">#00CED1</td>
+    <td style="background:beige">0,206,209</td>
+
+</tr>
+<tr>
+    <td style="background:#9400D3"></td>
+    <td>DarkViolet</td>
+    <td style="background:beige">#9400D3</td>
+    <td style="background:beige">148,0,211</td>
+</tr>
+<tr>
+    <td style="background:#FF1493"></td>
+    <td>DeepPink</td>
+    <td style="background:beige">#FF1493</td>
+    <td style="background:beige">255,20,147</td>
+
+</tr>
+<tr>
+    <td style="background:#00BFFF"></td>
+    <td>DeepSkyBlue</td>
+    <td style="background:beige">#00BFFF</td>
+    <td style="background:beige">0,191,255</td>
+</tr>
+<tr>
+    <td style="background:#696969"></td>
+    <td>DimGray</td>
+    <td style="background:beige">#696969</td>
+    <td style="background:beige">105,105,105</td>
+
+</tr>
+<tr>
+    <td style="background:#1E90FF"></td>
+    <td>DodgerBlue</td>
+    <td style="background:beige">#1E90FF</td>
+    <td style="background:beige">30,144,255</td>
+</tr>
+<tr>
+    <td style="background:#B22222"></td>
+    <td>FireBrick</td>
+    <td style="background:beige">#B22222</td>
+    <td style="background:beige">178,34,34</td>
+
+</tr>
+<tr>
+    <td style="background:#FFFAF0"></td>
+    <td>FloralWhite</td>
+    <td style="background:beige">#FFFAF0</td>
+    <td style="background:beige">255,250,240</td>
+</tr>
+<tr>
+    <td style="background:#228B22"></td>
+    <td>ForestGreen</td>
+    <td style="background:beige">#228B22</td>
+    <td style="background:beige">34,139,34</td>
+
+</tr>
+<tr>
+    <td style="background:#FF00FF"></td>
+    <td>Fuchsia</td>
+    <td style="background:beige">#FF00FF</td>
+    <td style="background:beige">255,0,255</td>
+</tr>
+<tr>
+    <td style="background:#DCDCDC"></td>
+    <td>Gainsboro</td>
+    <td style="background:beige">#DCDCDC</td>
+    <td style="background:beige">220,220,220</td>
+
+</tr>
+<tr>
+    <td style="background:#F8F8FF"></td>
+    <td>GhostWhite</td>
+    <td style="background:beige">#F8F8FF</td>
+    <td style="background:beige">248,248,255</td>
+</tr>
+<tr>
+    <td style="background:#FFD700"></td>
+    <td>Gold</td>
+    <td style="background:beige">#FFD700</td>
+    <td style="background:beige">255,215,0</td>
+
+</tr>
+<tr>
+    <td style="background:#DAA520"></td>
+    <td>Goldenrod</td>
+    <td style="background:beige">#DAA520</td>
+    <td style="background:beige">218,165,32</td>
+</tr>
+<tr>
+    <td style="background:#808080"></td>
+    <td>Gray</td>
+    <td style="background:beige">#808080</td>
+    <td style="background:beige">128,128,128</td>
+
+</tr>
+<tr>
+    <td style="background:#008000"></td>
+    <td>Green</td>
+    <td style="background:beige">#008000</td>
+    <td style="background:beige">0,128,0</td>
+</tr>
+<tr>
+    <td style="background:#ADFF2F"></td>
+    <td>GreenYellow</td>
+    <td style="background:beige">#ADFF2F</td>
+    <td style="background:beige">173,255,47</td>
+
+</tr>
+<tr>
+    <td style="background:#F0FFF0"></td>
+    <td>Honeydew</td>
+    <td style="background:beige">#F0FFF0</td>
+    <td style="background:beige">240,255,240</td>
+</tr>
+<tr>
+    <td style="background:#FF69B4"></td>
+    <td>HotPink</td>
+    <td style="background:beige">#FF69B4</td>
+    <td style="background:beige">255,105,180</td>
+
+</tr>
+<tr>
+    <td style="background:#CD5C5C"></td>
+    <td>IndianRed</td>
+    <td style="background:beige">#CD5C5C</td>
+    <td style="background:beige">205,92,92</td>
+</tr>
+<tr>
+    <td style="background:#4B0082"></td>
+    <td>Indigo</td>
+    <td style="background:beige">#4B0082</td>
+    <td style="background:beige">75,0,130</td>
+
+</tr>
+<tr>
+    <td style="background:#FFFFF0"></td>
+    <td>Ivory</td>
+    <td style="background:beige">#FFFFF0</td>
+    <td style="background:beige">255,255,240</td>
+</tr>
+<tr>
+    <td style="background:#F0E68C"></td>
+    <td>Khaki</td>
+    <td style="background:beige">#F0E68C</td>
+    <td style="background:beige">240,230,140</td>
+
+</tr>
+<tr>
+    <td style="background:#E6E6FA"></td>
+    <td>Lavender</td>
+    <td style="background:beige">#E6E6FA</td>
+    <td style="background:beige">230,230,250</td>
+</tr>
+<tr>
+    <td style="background:#FFF0F5"></td>
+    <td>LavenderBlush</td>
+    <td style="background:beige">#FFF0F5</td>
+    <td style="background:beige">255,240,245</td>
+
+</tr>
+<tr>
+    <td style="background:#7CFC00"></td>
+    <td>LawnGreen</td>
+    <td style="background:beige">#7CFC00</td>
+    <td style="background:beige">124,252,0</td>
+</tr>
+<tr>
+    <td style="background:#FFFACD"></td>
+    <td>LemonChiffon</td>
+    <td style="background:beige">#FFFACD</td>
+    <td style="background:beige">255,250,205</td>
+
+</tr>
+<tr>
+    <td style="background:#ADD8E6"></td>
+    <td>LightBlue</td>
+    <td style="background:beige">#ADD8E6</td>
+    <td style="background:beige">173,216,230</td>
+</tr>
+<tr>
+    <td style="background:#F08080"></td>
+    <td>LightCoral</td>
+    <td style="background:beige">#F08080</td>
+    <td style="background:beige">240,128,128</td>
+
+</tr>
+<tr>
+    <td style="background:#E0FFFF"></td>
+    <td>LightCyan</td>
+    <td style="background:beige">#E0FFFF</td>
+    <td style="background:beige">224,255,255</td>
+</tr>
+<tr>
+    <td style="background:#FAFAD2"></td>
+    <td>LightGoldenrodYellow</td>
+    <td style="background:beige">#FAFAD2</td>
+    <td style="background:beige">250,250,210</td>
+
+</tr>
+<tr>
+    <td style="background:#90EE90"></td>
+    <td>LightGreen</td>
+    <td style="background:beige">#90EE90</td>
+    <td style="background:beige">144,238,144</td>
+</tr>
+<tr>
+    <td style="background:#D3D3D3"></td>
+    <td>LightGrey</td>
+    <td style="background:beige">#D3D3D3</td>
+    <td style="background:beige">211,211,211</td>
+
+</tr>
+<tr>
+    <td style="background:#FFB6C1"></td>
+    <td>LightPink</td>
+    <td style="background:beige">#FFB6C1</td>
+    <td style="background:beige">255,182,193</td>
+</tr>
+<tr>
+    <td style="background:#FFA07A"></td>
+    <td>LightSalmon</td>
+    <td style="background:beige">#FFA07A</td>
+    <td style="background:beige">255,160,122</td>
+
+</tr>
+<tr>
+    <td style="background:#20B2AA"></td>
+    <td>LightSeaGreen</td>
+    <td style="background:beige">#20B2AA</td>
+    <td style="background:beige">32,178,170</td>
+</tr>
+<tr>
+    <td style="background:#87CEFA"></td>
+    <td>LightSkyBlue</td>
+    <td style="background:beige">#87CEFA</td>
+    <td style="background:beige">135,206,250</td>
+
+</tr>
+<tr>
+    <td style="background:#778899"></td>
+    <td>LightSlateGray</td>
+    <td style="background:beige">#778899</td>
+    <td style="background:beige">119,136,153</td>
+</tr>
+<tr>
+    <td style="background:#B0C4DE"></td>
+    <td>LightSteelBlue</td>
+    <td style="background:beige">#B0C4DE</td>
+    <td style="background:beige">176,196,222</td>
+
+</tr>
+<tr>
+    <td style="background:#FFFFE0"></td>
+    <td>LightYellow</td>
+    <td style="background:beige">#FFFFE0</td>
+    <td style="background:beige">255,255,224</td>
+</tr>
+<tr>
+    <td style="background:#00FF00"></td>
+    <td>Lime</td>
+    <td style="background:beige">#00FF00</td>
+    <td style="background:beige">0,255,0</td>
+
+</tr>
+<tr>
+    <td style="background:#32CD32"></td>
+    <td>LimeGreen</td>
+    <td style="background:beige">#32CD32</td>
+    <td style="background:beige">50,205,50</td>
+</tr>
+<tr>
+    <td style="background:#FAF0E6"></td>
+    <td>Linen</td>
+    <td style="background:beige">#FAF0E6</td>
+    <td style="background:beige">250,240,230</td>
+
+</tr>
+<tr>
+    <td style="background:#FF00FF"></td>
+    <td>Magenta</td>
+    <td style="background:beige">#FF00FF</td>
+    <td style="background:beige">255,0,255</td>
+</tr>
+<tr>
+    <td style="background:#800000"></td>
+    <td>Maroon</td>
+    <td style="background:beige">#800000</td>
+    <td style="background:beige">128,0,0</td>
+
+</tr>
+<tr>
+    <td style="background:#66CDAA"></td>
+    <td>MediumAquamarine</td>
+    <td style="background:beige">#66CDAA</td>
+    <td style="background:beige">102,205,170</td>
+</tr>
+<tr>
+    <td style="background:#0000CD"></td>
+    <td>MediumBlue</td>
+    <td style="background:beige">#0000CD</td>
+    <td style="background:beige">0,0,205</td>
+
+</tr>
+<tr>
+    <td style="background:#BA55D3"></td>
+    <td>MediumOrchid</td>
+    <td style="background:beige">#BA55D3</td>
+    <td style="background:beige">186,85,211</td>
+</tr>
+<tr>
+    <td style="background:#9370DB"></td>
+    <td>MediumPurple</td>
+    <td style="background:beige">#9370DB</td>
+    <td style="background:beige">147,112,219</td>
+
+</tr>
+<tr>
+    <td style="background:#3CB371"></td>
+    <td>MediumSeaGreen</td>
+    <td style="background:beige">#3CB371</td>
+    <td style="background:beige">60,179,113</td>
+</tr>
+<tr>
+    <td style="background:#7B68EE"></td>
+    <td>MediumSlateBlue</td>
+    <td style="background:beige">#7B68EE</td>
+    <td style="background:beige">123,104,238</td>
+
+</tr>
+<tr>
+    <td style="background:#00FA9A"></td>
+    <td>MediumSpringGreen</td>
+    <td style="background:beige">#00FA9A</td>
+    <td style="background:beige">0,250,154</td>
+</tr>
+<tr>
+    <td style="background:#48D1CC"></td>
+    <td>MediumTurquoise</td>
+    <td style="background:beige">#48D1CC</td>
+    <td style="background:beige">72,209,204</td>
+
+</tr>
+<tr>
+    <td style="background:#C71585"></td>
+    <td>MediumVioletRed</td>
+    <td style="background:beige">#C71585</td>
+    <td style="background:beige">199,21,133</td>
+</tr>
+<tr>
+    <td style="background:#191970"></td>
+    <td>MidnightBlue</td>
+    <td style="background:beige">#191970</td>
+    <td style="background:beige">25,25,112</td>
+
+</tr>
+<tr>
+    <td style="background:#F5FFFA"></td>
+    <td>MintCream</td>
+    <td style="background:beige">#F5FFFA</td>
+    <td style="background:beige">245,255,250</td>
+</tr>
+<tr>
+    <td style="background:#FFE4E1"></td>
+    <td>MistyRose</td>
+    <td style="background:beige">#FFE4E1</td>
+    <td style="background:beige">255,228,225</td>
+
+</tr>
+<tr>
+    <td style="background:#FFE4B5"></td>
+    <td>Moccasin</td>
+    <td style="background:beige">#FFE4B5</td>
+    <td style="background:beige">255,228,181</td>
+</tr>
+<tr>
+    <td style="background:#FFDEAD"></td>
+    <td>NavajoWhite</td>
+    <td style="background:beige">#FFDEAD</td>
+    <td style="background:beige">255,222,173</td>
+
+</tr>
+<tr>
+    <td style="background:#000080"></td>
+    <td>Navy</td>
+    <td style="background:beige">#000080</td>
+    <td style="background:beige">0,0,128</td>
+</tr>
+<tr>
+    <td style="background:#FDF5E6"></td>
+    <td>OldLace</td>
+    <td style="background:beige">#FDF5E6</td>
+    <td style="background:beige">253,245,230</td>
+
+</tr>
+<tr>
+    <td style="background:#808000"></td>
+    <td>Olive</td>
+    <td style="background:beige">#808000</td>
+    <td style="background:beige">128,128,0</td>
+</tr>
+<tr>
+    <td style="background:#6B8E23"></td>
+    <td>OliveDrab</td>
+    <td style="background:beige">#6B8E23</td>
+    <td style="background:beige">107,142,35</td>
+
+</tr>
+<tr>
+    <td style="background:#FFA500"></td>
+    <td>Orange</td>
+    <td style="background:beige">#FFA500</td>
+    <td style="background:beige">255,165,0</td>
+</tr>
+<tr>
+    <td style="background:#FF4500"></td>
+    <td>OrangeRed</td>
+    <td style="background:beige">#FF4500</td>
+    <td style="background:beige">255,69,0</td>
+
+</tr>
+<tr>
+    <td style="background:#DA70D6"></td>
+    <td>Orchid</td>
+    <td style="background:beige">#DA70D6</td>
+    <td style="background:beige">218,112,214</td>
+</tr>
+<tr>
+    <td style="background:#EEE8AA"></td>
+    <td>PaleGoldenrod</td>
+    <td style="background:beige">#EEE8AA</td>
+    <td style="background:beige">238,232,170</td>
+
+</tr>
+<tr>
+    <td style="background:#98FB98"></td>
+    <td>PaleGreen</td>
+    <td style="background:beige">#98FB98</td>
+    <td style="background:beige">152,251,152</td>
+</tr>
+<tr>
+    <td style="background:#AFEEEE"></td>
+    <td>PaleTurquoise</td>
+    <td style="background:beige">#AFEEEE</td>
+    <td style="background:beige">175,238,238</td>
+
+</tr>
+<tr>
+    <td style="background:#DB7093"></td>
+    <td>PaleVioletRed</td>
+    <td style="background:beige">#DB7093</td>
+    <td style="background:beige">219,112,147</td>
+</tr>
+<tr>
+    <td style="background:#FFEFD5"></td>
+    <td>PapayaWhip</td>
+    <td style="background:beige">#FFEFD5</td>
+    <td style="background:beige">255,239,213</td>
+
+</tr>
+<tr>
+    <td style="background:#FFDAB9"></td>
+    <td>PeachPuff</td>
+    <td style="background:beige">#FFDAB9</td>
+    <td style="background:beige">255,218,185</td>
+</tr>
+<tr>
+    <td style="background:#CD853F"></td>
+    <td>Peru</td>
+    <td style="background:beige">#CD853F</td>
+    <td style="background:beige">205,133,63</td>
+
+</tr>
+<tr>
+    <td style="background:#FFC0CB"></td>
+    <td>Pink</td>
+    <td style="background:beige">#FFC0CB</td>
+    <td style="background:beige">255,192,203</td>
+</tr>
+<tr>
+    <td style="background:#DDA0DD"></td>
+    <td>Plum</td>
+    <td style="background:beige">#DDA0DD</td>
+    <td style="background:beige">221,160,221</td>
+
+</tr>
+<tr>
+    <td style="background:#B0E0E6"></td>
+    <td>PowderBlue</td>
+    <td style="background:beige">#B0E0E6</td>
+    <td style="background:beige">176,224,230</td>
+</tr>
+<tr>
+    <td style="background:#800080"></td>
+    <td>Purple</td>
+    <td style="background:beige">#800080</td>
+    <td style="background:beige">128,0,128</td>
+
+</tr>
+<tr>
+    <td style="background:#FF0000"></td>
+    <td>Red</td>
+    <td style="background:beige">#FF0000</td>
+    <td style="background:beige">255,0,0</td>
+</tr>
+<tr>
+    <td style="background:#BC8F8F"></td>
+    <td>RosyBrown</td>
+    <td style="background:beige">#BC8F8F</td>
+    <td style="background:beige">188,143,143</td>
+
+</tr>
+<tr>
+    <td style="background:#4169E1"></td>
+    <td>RoyalBlue</td>
+    <td style="background:beige">#4169E1</td>
+    <td style="background:beige">65,105,225</td>
+</tr>
+<tr>
+    <td style="background:#8B4513"></td>
+    <td>SaddleBrown</td>
+    <td style="background:beige">#8B4513</td>
+    <td style="background:beige">139,69,19</td>
+
+</tr>
+<tr>
+    <td style="background:#FA8072"></td>
+    <td>Salmon</td>
+    <td style="background:beige">#FA8072</td>
+    <td style="background:beige">250,128,114</td>
+</tr>
+<tr>
+    <td style="background:#F4A460"></td>
+    <td>SandyBrown</td>
+    <td style="background:beige">#F4A460</td>
+    <td style="background:beige">244,164,96</td>
+
+</tr>
+<tr>
+    <td style="background:#2E8B57"></td>
+    <td>SeaGreen</td>
+    <td style="background:beige">#2E8B57</td>
+    <td style="background:beige">46,139,87</td>
+</tr>
+<tr>
+    <td style="background:#FFF5EE"></td>
+    <td>Seashell</td>
+    <td style="background:beige">#FFF5EE</td>
+    <td style="background:beige">255,245,238</td>
+
+</tr>
+<tr>
+    <td style="background:#A0522D"></td>
+    <td>Sienna</td>
+    <td style="background:beige">#A0522D</td>
+    <td style="background:beige">160,82,45</td>
+</tr>
+<tr>
+    <td style="background:#C0C0C0"></td>
+    <td>Silver</td>
+    <td style="background:beige">#C0C0C0</td>
+    <td style="background:beige">192,192,192</td>
+
+</tr>
+<tr>
+    <td style="background:#87CEEB"></td>
+    <td>SkyBlue</td>
+    <td style="background:beige">#87CEEB</td>
+    <td style="background:beige">135,206,235</td>
+</tr>
+<tr>
+    <td style="background:#6A5ACD"></td>
+    <td>SlateBlue</td>
+    <td style="background:beige">#6A5ACD</td>
+    <td style="background:beige">106,90,205</td>
+
+</tr>
+<tr>
+    <td style="background:#708090"></td>
+    <td>SlateGray</td>
+    <td style="background:beige">#708090</td>
+    <td style="background:beige">112,128,144</td>
+</tr>
+<tr>
+    <td style="background:#FFFAFA"></td>
+    <td>Snow</td>
+    <td style="background:beige">#FFFAFA</td>
+    <td style="background:beige">255,250,250</td>
+
+</tr>
+<tr>
+    <td style="background:#00FF7F"></td>
+    <td>SpringGreen</td>
+    <td style="background:beige">#00FF7F</td>
+    <td style="background:beige">0,255,127</td>
+</tr>
+<tr>
+    <td style="background:#4682B4"></td>
+    <td>SteelBlue</td>
+    <td style="background:beige">#4682B4</td>
+    <td style="background:beige">70,130,180</td>
+
+</tr>
+<tr>
+    <td style="background:#D2B48C"></td>
+    <td>Tan</td>
+    <td style="background:beige">#D2B48C</td>
+    <td style="background:beige">210,180,140</td>
+</tr>
+<tr>
+    <td style="background:#008080"></td>
+    <td>Teal</td>
+    <td style="background:beige">#008080</td>
+    <td style="background:beige">0,128,128</td>
+
+</tr>
+<tr>
+    <td style="background:#D8BFD8"></td>
+    <td>Thistle</td>
+    <td style="background:beige">#D8BFD8</td>
+    <td style="background:beige">216,191,216</td>
+</tr>
+<tr>
+    <td style="background:#FF6347"></td>
+    <td>Tomato</td>
+    <td style="background:beige">#FF6347</td>
+    <td style="background:beige">255,99,71</td>
+
+</tr>
+<tr>
+    <td style="background:#40E0D0"></td>
+    <td>Turquoise</td>
+    <td style="background:beige">#40E0D0</td>
+    <td style="background:beige">64,224,208</td>
+</tr>
+<tr>
+    <td style="background:#EE82EE"></td>
+    <td>Violet</td>
+    <td style="background:beige">#EE82EE</td>
+    <td style="background:beige">238,130,238</td>
+
+</tr>
+<tr>
+    <td style="background:#F5DEB3"></td>
+    <td>Wheat</td>
+    <td style="background:beige">#F5DEB3</td>
+    <td style="background:beige">245,222,179</td>
+</tr>
+<tr>
+    <td style="background:#FFFFFF"></td>
+    <td>White</td>
+    <td style="background:beige">#FFFFFF</td>
+    <td style="background:beige">255,255,255</td>
+
+</tr>
+<tr>
+    <td style="background:#F5F5F5"></td>
+    <td>WhiteSmoke</td>
+    <td style="background:beige">#F5F5F5</td>
+    <td style="background:beige">245,245,245</td>
+</tr>
+<tr>
+    <td style="background:#FFFF00"></td>
+    <td>Yellow</td>
+    <td style="background:beige">#FFFF00</td>
+    <td style="background:beige">255,255,0</td>
+
+</tr>
+<tr>
+    <td style="background:#9ACD32"></td>
+    <td>YellowGreen</td>
+    <td style="background:beige">#9ACD32</td>
+    <td style="background:beige">154,205,50</td>
+</tr>
+</table>
