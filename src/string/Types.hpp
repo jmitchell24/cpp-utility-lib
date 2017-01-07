@@ -7,6 +7,7 @@
 #define UTIL_DEFAULT_UNNEST ')'
 
 #include <map>
+#include <vector>
 #include <string>
 #include <fstream>
 #include <sstream>

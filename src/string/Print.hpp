@@ -14,10 +14,19 @@
 
 namespace util
 {
-    inline Alignment alignment(size_t const size)                                                      { return Alignment(size);                }
-    inline Alignment alignment(size_t const size, char_t const fill)                                   { return Alignment(size, fill);          }
-    inline Alignment alignment(size_t const size, Alignment::Justify const justify)                    { return Alignment(size, justify);       }
-    inline Alignment alignment(size_t const size, Alignment::Justify const justify, char_t const fill) { return Alignment(size, justify, fill); }
+    inline Alignment align(size_t const size)                                                      { return Alignment(size);                }
+    inline Alignment align(size_t const size, char_t const fill)                                   { return Alignment(size, fill);          }
+    inline Alignment align(size_t const size, Alignment::Justify const justify)                    { return Alignment(size, justify);       }
+    inline Alignment align(size_t const size, Alignment::Justify const justify, char_t const fill) { return Alignment(size, justify, fill); }
+
+    inline Alignment alignLeft(size_t const size) { return Alignment(size, Alignment::Justify::LEFT); }
+    inline Alignment alignLeft(size_t const size, char_t const fill) { return Alignment(size, Alignment::Justify::LEFT, fill); }
+
+    inline Alignment alignRight(size_t const size) { return Alignment(size, Alignment::Justify::RIGHT); }
+    inline Alignment alignRight(size_t const size, char_t const fill) { return Alignment(size, Alignment::Justify::RIGHT, fill); }
+
+    inline Alignment alignCenter(size_t const size) { return Alignment(size, Alignment::Justify::CENTER); }
+    inline Alignment alignCenter(size_t const size, char_t const fill) { return Alignment(size, Alignment::Justify::CENTER, fill); }
 
     // -- print
 

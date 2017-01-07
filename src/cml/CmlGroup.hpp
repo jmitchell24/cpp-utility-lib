@@ -7,6 +7,7 @@
 
 #include <map>
 #include <deque>
+#include <vector>
 #include <memory>
 
 namespace util

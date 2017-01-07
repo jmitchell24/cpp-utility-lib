@@ -1,6 +1,10 @@
 
 # Created by https://www.gitignore.io/api/qt,c++
 
+### Tests ###
+tests/
+cpp-utility-lib-test.pro
+
 ### Qt ###
 # C++ objects and libs
 
